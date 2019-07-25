@@ -1,7 +1,11 @@
 {
   "name": "dsc-udavinci",
   "version": "0.1.0",
-  "private": true,
+  "author": "Jesus Francisco Caro Cota",
+  "description": "I don't knowt",
+  "keywords":[ "DSC","udavinci","AI", "programming", "networking", "bigdata", "research"],
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
