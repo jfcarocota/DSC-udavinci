@@ -1,3 +1,5 @@
+# dsc-udavinci
+
 ![image](https://user-images.githubusercontent.com/6539267/61841923-38c92f80-ae4b-11e9-950c-b08a052abf9a.png)
 
 Repositorio para el programa de doctorado de Universidad Davinci A. C. 2019 - 2022
@@ -75,5 +77,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# dsc-udavinci
-
