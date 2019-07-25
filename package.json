@@ -3,10 +3,20 @@
   "version": "0.1.0",
   "author": "Jesus Francisco Caro Cota",
   "description": "I don't knowt",
-  "keywords":[ "DSC","udavinci","AI", "programming", "networking", "bigdata", "research"],
+  "keywords": [
+    "DSC",
+    "udavinci",
+    "AI",
+    "programming",
+    "networking",
+    "bigdata",
+    "research"
+  ],
   "license": "MIT",
+  "homepage": "https://jfcarocota.github.io/dsc-udavinci",
   "private": false,
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
@@ -15,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
