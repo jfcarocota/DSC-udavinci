@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dsc-udavinci/precache-manifest.5d50d0e56c5a51f89cab23ab49a758c2.js"
+  "/dsc-udavinci/precache-manifest.2629a73c5f3bf04f40f37d40f300e09e.js"
 );
 
 self.addEventListener('message', (event) => {

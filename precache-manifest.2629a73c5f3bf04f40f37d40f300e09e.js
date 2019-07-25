@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ddac9de13a4bf740f479b81f07330e2",
+    "revision": "2b37483d9ddb7926e62f884fa6bb89c6",
     "url": "/dsc-udavinci/index.html"
   },
   {
-    "revision": "2dc9489d26ba8bfb625f",
+    "revision": "a8d9c0fb5825124dfca8",
     "url": "/dsc-udavinci/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dsc-udavinci/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "2dc9489d26ba8bfb625f",
-    "url": "/dsc-udavinci/static/js/main.b0d7ec89.chunk.js"
+    "revision": "a8d9c0fb5825124dfca8",
+    "url": "/dsc-udavinci/static/js/main.9ca8bd87.chunk.js"
   },
   {
     "revision": "9c6f9fa9a8ca5d576ac3",
