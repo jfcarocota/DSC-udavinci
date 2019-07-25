@@ -16,6 +16,10 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jfcarocota/dsc-udavinci.git"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
