@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dsc-udavinci/static/css/main.2cce8147.chunk.css",
-    "main.js": "/dsc-udavinci/static/js/main.749f1746.chunk.js",
-    "main.js.map": "/dsc-udavinci/static/js/main.749f1746.chunk.js.map",
+    "main.js": "/dsc-udavinci/static/js/main.b0d7ec89.chunk.js",
+    "main.js.map": "/dsc-udavinci/static/js/main.b0d7ec89.chunk.js.map",
     "runtime~main.js": "/dsc-udavinci/static/js/runtime~main.6c06b24c.js",
     "runtime~main.js.map": "/dsc-udavinci/static/js/runtime~main.6c06b24c.js.map",
     "static/js/2.b41502e9.chunk.js": "/dsc-udavinci/static/js/2.b41502e9.chunk.js",
     "static/js/2.b41502e9.chunk.js.map": "/dsc-udavinci/static/js/2.b41502e9.chunk.js.map",
     "index.html": "/dsc-udavinci/index.html",
-    "precache-manifest.221cc736bf80d7f99fa5706ff3351f41.js": "/dsc-udavinci/precache-manifest.221cc736bf80d7f99fa5706ff3351f41.js",
+    "precache-manifest.5d50d0e56c5a51f89cab23ab49a758c2.js": "/dsc-udavinci/precache-manifest.5d50d0e56c5a51f89cab23ab49a758c2.js",
     "service-worker.js": "/dsc-udavinci/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/dsc-udavinci/static/css/main.2cce8147.chunk.css.map",
     "static/media/logo.svg": "/dsc-udavinci/static/media/logo.5d5d9eef.svg"
